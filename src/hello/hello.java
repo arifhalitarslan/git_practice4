@@ -6,6 +6,7 @@ public class hello {
 
         System.out.println("Hello World");
 
+        System.out.println("EU 8 learning git and github");
 
     }
 }
